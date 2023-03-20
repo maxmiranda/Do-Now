@@ -1,4 +1,4 @@
-let username = "ty.dtm_"; // String
+let username = "maxmiranda"; // String
 let followerCount = 1000000; // Number 
 
 let name = "Tyra";
